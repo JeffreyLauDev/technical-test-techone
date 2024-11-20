@@ -1,0 +1,45 @@
+# .NET Core
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Windows Installer build logs
+*.buildlog
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core global tools
+dotnet-tools.json
+
+# VS for Mac
+.vscode/
+
+# Npm packages
+node_modules/
+
+# VSCode directories
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Files
+appsettings.json
+appsettings.Development.json
